@@ -215,9 +215,7 @@
         "text": "person crawls forward on their stomach.",
         "start": 7.05,
         "end": 17.05,
-        "clip_embedding": [
-          
-        ],
+        "clip_embedding": [],
         "clip_embedding_2d": [
           0.11059113591909409,
           -1.177024245262146
